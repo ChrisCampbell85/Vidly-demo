@@ -26,7 +26,8 @@ SECRET_KEY = '!8jhic*j3-tdqm*8t^!2!3u-+-!kdll@0g=dh90i2lfr0@a-#='
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'nameless-ridge-75727.herokuapp.com'
+    'nameless-ridge-75727.herokuapp.com',
+    '127.0.0.1'
 ]
 
 
